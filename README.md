@@ -1,6 +1,7 @@
 # Sup! 🖐
 
 Hi! My name is Yuri, I'm from Brazil and I'm currently studying Computer Science. 👨‍💻
+
 I'm always looking to learn and improve my skills.
 #### About me 😄
 - I was born in Passo Fundo, Rio Grande do Sul 👶
