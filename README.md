@@ -1,6 +1,7 @@
 # Sup! 🖐
-Hi! My name is Yuri, I'm from Brazil and I'm a graduated Computer Science professional. 👨‍💻
-I'm always looking to learn and improve my skills.
+Hi! My name is Yuri, I'm from Brazil and I'm a graduated Computer Science professional.
+
+👨‍💻 I'm always looking to learn and improve my skills.
 
 #### About me 😄
 - Frontend and mobile developer focused on React, Next.js, React Native and TypeScript 💻
